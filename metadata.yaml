@@ -1,0 +1,31 @@
+_repo: Dynevor-Terrace--Or-The-Clue-of-Life---Volume-2_4236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, C. M. (Charlotte Mary)
+    - Yonge, Charlotte Mary
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Cousins -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Upper class -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Dynevor Terrace; Or, The Clue of Life — Volume 2
+url: http://www.gutenberg.org/ebooks/4236
